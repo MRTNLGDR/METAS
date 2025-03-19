@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO/finais.md",
+                "file": "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO/BrainLink MI/ROADMAP BRAINLINK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "finais"
+              "title": "ROADMAP BRAINLINK"
+            }
+          },
+          {
+            "id": "c6b4ca4ae4af5992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/12_IMPLANTACAOI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12_IMPLANTACAOI"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,8 +195,37 @@
       "command-palette:Abrir paleta de comando": false
     }
   },
-  "active": "1165be5955f258ee",
+  "active": "c6b4ca4ae4af5992",
   "lastOpenFiles": [
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/18_REFERENCIAS.md",
+    "Sem título.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/12_IMPLANTACAOI.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/11_SEGURANCA.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/10_MONITORAMENTO.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/17_APENDICES.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/16_GLOSSARIO.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/15_ROADMAP.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/14_MANUTENCAO.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/13_ESCALABILIDADE.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/09_INTEGRACAO_IA.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/08_SEGURANCA.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/07_COLABORACAO.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/06_SEGURANCA.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/05_LLMS_E_IA.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/04_DATABASE.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/02_FRONTEND.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/03_BACKEND.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/01_ARQUITETURA_TECNICA.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/00_VISAO_CONSOLIDADA.md",
+    "Server-cursor-Git-Supa",
+    "Martyn Legrand Studios",
+    "Musicclone",
+    "A1/Meta-Sistema Organizador para Desenvolvimento de Aplicativos.md",
+    "A1/SISTEMA META-REFERENCIAL PARA DESENVOLVIMENTO PERFEITO POR IA.md",
+    "A1/Como-Usar.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/Appbank Modular/MODULAR.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/A1 - BOLTCORRECT/BOLTCORREÇÕES.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/A1 - BOLTCORRECT/Bolt.new development..md",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/types/istextorbinary.d.ts",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/types",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/scripts/update.sh",
@@ -190,18 +233,9 @@
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/scripts/clean.js",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/scripts",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/node_modules/@vitejs/plugin-react",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/node_modules/@vitejs",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/node_modules/@unocss/reset",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/node_modules/@unocss",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/node_modules/@uiw/codemirror-theme-vscode",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/docs/docs/index.md",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/docs/docs/CONTRIBUTING.md",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/docs/docs/FAQ.md",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/docs/images/provider-base-url.png",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/docs/images/api-key-ui-section.png",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/docs/images/bolt-settings-button.png",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/docs/README.md",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/WORKSPACE MULTIMODAL DE TELA UNICA project-bolt-sb1-ezkxtkxy (2)/BrainLink-Antigobolt.md",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/public/icons/xAI.svg",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/public/icons/Together.svg",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/public/icons/Perplexity.svg",
@@ -209,26 +243,6 @@
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/public/icons/OpenAILike.svg",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/public/icons/Ollama.svg",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/public/icons/OpenAI.svg",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/README.md",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/PROJECT.md",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/FAQ.md",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/CONTRIBUTING.md",
-    "Brainlink-Antigobolt/Referenciais/Bolt.diy/changelog.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO/ultima ideaalizaçoa.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO/WOW PROMPTS.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/Banco de dados.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/COOKBOOK.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/Fature 1.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/FLUXO.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/Inteface final.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/NOVA.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MODULAR/MODULOS.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MODULAR/TUTO.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/FUTURES/FUTURES.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/FUTURES/Templates de Prompts.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/META SISTEMA IA/VERSÃO ANTI-“ENGANAÇÃO.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/META SISTEMA IA/Template para criar um ROADMAP.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/META SISTEMA IA/Passo 7.md",
     "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/META SISTEMA IA/CANVA.canvas"
   ]
 }
