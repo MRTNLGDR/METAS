@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiRefreshCcwDot",
+      "LiFileSpreadsheet",
       "LiMonitorUp",
       "LiPencilRuler",
-      "LiChartCandlestick",
-      "LiOrbit",
-      "LiBriefcaseBusiness"
+      "LiChartCandlestick"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,5 +51,7 @@
   "A1": {
     "iconName": "LiMonitorUp",
     "iconColor": "#80ff00"
-  }
+  },
+  "A1/Como-Usar.md": "LiFileSpreadsheet",
+  "Brainlink-Antigobolt/Referenciais": "LiRefreshCcwDot"
 }

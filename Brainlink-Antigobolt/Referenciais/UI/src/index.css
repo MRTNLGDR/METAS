@@ -1,0 +1,200 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-gray-900 text-gray-100;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  overscroll-behavior: none;
+  touch-action: manipulation;
+}
+
+/* Custom scrollbar for dark theme */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Panel drag handle styles */
+.panel-drag-handle {
+  touch-action: none;
+  user-select: none;
+}
+
+.panel-drag-handle:active {
+  cursor: grabbing !important;
+}
+
+/* Resize handle styles */
+.resize-handle-right,
+.resize-handle-left {
+  width: 8px !important;
+  cursor: ew-resize;
+  background: rgba(59, 130, 246, 0.15);
+  transition: background-color 0.2s;
+}
+
+.resize-handle-top,
+.resize-handle-bottom {
+  height: 8px !important;
+  cursor: ns-resize;
+  background: rgba(59, 130, 246, 0.15);
+  transition: background-color 0.2s;
+}
+
+.resize-handle-top-right,
+.resize-handle-bottom-right,
+.resize-handle-bottom-left,
+.resize-handle-top-left {
+  width: 12px !important;
+  height: 12px !important;
+  background: rgba(59, 130, 246, 0.15);
+  transition: background-color 0.2s;
+}
+
+.resize-handle-top-right {
+  cursor: ne-resize;
+}
+
+.resize-handle-bottom-right {
+  cursor: se-resize;
+}
+
+.resize-handle-bottom-left {
+  cursor: sw-resize;
+}
+
+.resize-handle-top-left {
+  cursor: nw-resize;
+}
+
+/* Resize handle hover states */
+.resize-handle-right:hover,
+.resize-handle-left:hover,
+.resize-handle-top:hover,
+.resize-handle-bottom:hover,
+.resize-handle-top-right:hover,
+.resize-handle-bottom-right:hover,
+.resize-handle-bottom-left:hover,
+.resize-handle-top-left:hover {
+  background: rgba(59, 130, 246, 0.3);
+}
+
+/* Panel focus styles */
+.panel-focus {
+  @apply ring-2 ring-blue-500;
+}
+
+/* Snap guide animations */
+@keyframes snapGuideAppear {
+  from {
+    opacity: 0;
+    transform: scaleX(0.8);
+  }
+  to {
+    opacity: 0.7;
+    transform: scaleX(1);
+  }
+}
+
+.snap-guide {
+  animation: snapGuideAppear 0.2s ease-out forwards;
+}
+
+/* Panel minimize/maximize animations */
+.panel-transition {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Workspace grid background */
+.workspace-grid {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(59, 130, 246, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(59, 130, 246, 0.05) 1px, transparent 1px);
+}
+
+/* Dragging styles */
+.react-draggable-dragging {
+  cursor: grabbing !important;
+  opacity: 0.8;
+  transition: none !important;
+}
+
+.react-draggable-dragging * {
+  cursor: grabbing !important;
+}
+
+/* Touch device optimizations */
+@media (hover: none) and (pointer: coarse) {
+  .resize-handle-right,
+  .resize-handle-left,
+  .resize-handle-top,
+  .resize-handle-bottom,
+  .resize-handle-top-right,
+  .resize-handle-bottom-right,
+  .resize-handle-bottom-left,
+  .resize-handle-top-left {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .panel-drag-handle {
+    min-height: 44px;
+  }
+
+  button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}
+
+/* Auto-organize button animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out forwards;
+}
+
+/* Prevent text selection during drag */
+.user-select-none {
+  user-select: none;
+}
+
+/* Prevent overscroll on mobile */
+.overscroll-none {
+  overscroll-behavior: none;
+}
+
+/* Improve touch targets */
+.touch-manipulation {
+  touch-action: manipulation;
+}
