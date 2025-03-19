@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fd0ad3b652fa1cd0","type":"file","file":"AREA DE DEV.png","x":-1440,"y":-1400,"width":399,"height":251},
+		{"id":"0158c075d68a542b","type":"file","file":"META SISTEMA IA/Template para criar um ROADMAP.md","x":-1980,"y":-900,"width":740,"height":1080},
+		{"id":"57b7a3e508e54829","type":"file","file":"META SISTEMA IA/VERSÃO ANTI-“ENGANAÇÃO.md","x":-1000,"y":-900,"width":760,"height":1080},
+		{"id":"c3cd695b67c538c1","type":"file","file":"META SISTEMA IA/files/Prompt_3 template aprimorado.md","x":-1280,"y":-2100,"width":400,"height":540}
+	],
+	"edges":[]
+}

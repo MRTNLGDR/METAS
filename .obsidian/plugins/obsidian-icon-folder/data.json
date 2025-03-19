@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiMonitorUp",
+      "LiPencilRuler",
+      "LiChartCandlestick",
+      "LiOrbit",
+      "LiBriefcaseBusiness"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Brainlink-Antigobolt": "LiBrain",
+  "Brainlink-Antigobolt/Brainlink-antigobolt-Docs": "LiBrainCog",
+  "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem": "LiBrainCircuit",
+  "Jestflyapp": "LiMusic",
+  "LVgroup": "LiBriefcaseBusiness",
+  "Orbit": "LiOrbit",
+  "A1/Meta-Sistema Organizador para Desenvolvimento de Aplicativos.md": {
+    "iconName": "LiChartCandlestick",
+    "iconColor": "#00ff1e"
+  },
+  "A1/SISTEMA META-REFERENCIAL PARA DESENVOLVIMENTO PERFEITO POR IA.md": {
+    "iconName": "LiPencilRuler",
+    "iconColor": "#ff4000"
+  },
+  "A1": {
+    "iconName": "LiMonitorUp",
+    "iconColor": "#80ff00"
+  }
+}

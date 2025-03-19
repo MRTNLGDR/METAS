@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "6bd5d7a7c88b322a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f6071b38b60785d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a78f27bda94eebc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A1/Meta-Sistema Organizador para Desenvolvimento de Aplicativos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meta-Sistema Organizador para Desenvolvimento de Aplicativos"
+            }
+          },
+          {
+            "id": "1165be5955f258ee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização de diagrama de grafo"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f956445967ac5f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "08dfe41e2fa58076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c06eeac2ee98a90c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de ficheiros"
+            }
+          },
+          {
+            "id": "588734978dc23faf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "89723f4da32005d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b88160e6faa4252",
+    "type": "split",
+    "children": [
+      {
+        "id": "3601288d270b983f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e4a55686627271e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c20513165edbb452",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links Externos"
+            }
+          },
+          {
+            "id": "67feb071e9e444e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "556ca5631d62cdc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Gerir esquema da área de trabalho": false,
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false
+    }
+  },
+  "active": "c06eeac2ee98a90c",
+  "lastOpenFiles": [
+    "Jestflyapp/Jestfly-Decupagem/ANTES/STACK.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES/RELATORIO FINAL E ANALIZE PROMPTS.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES/Sem título.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES/Modularizado.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES/novo banco.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES/ROAD.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES/MAPA.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES/Estrutura schema.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES/DIRETRIZ.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES/COMECE EM BRANCO.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES/BANCO DE DADOS.md",
+    "Jestflyapp/Jestfly-Decupagem/ANTES",
+    "Jestflyapp/Jestfly-Decupagem/V0.md",
+    "Jestflyapp/Jestfly-Decupagem/Sem título",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MODULAR/TUTO.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MODULAR/MODULOS.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MODULAR",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO/BrainLink MI/ROADMAP BRAINLINK.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO/BrainLink MI/Sem título.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO/WOW PROMPTS.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO/ultima ideaalizaçoa.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO/BrainLink MI",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO/finais.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/FUTURES/Templates de Prompts.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/FUTURES/FUTURES.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/NOVA.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/ULTIMATO",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/Inteface final.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/Plano de negocio.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/MASTER I -Stack.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/Master I Schema.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI/FUTURES",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/MI - Master intelligence AGI",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/META SISTEMA IA/files",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/META SISTEMA IA/CANVA.canvas",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/META SISTEMA IA",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/LOGICA AGI CODER"
+  ]
+}
