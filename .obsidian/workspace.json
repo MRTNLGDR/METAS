@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/12_IMPLANTACAOI.md",
+                "file": "Brainlink-Antigobolt/Referenciais/Q&A -Brainlink-Bolt.diy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12_IMPLANTACAOI"
+              "title": "Q&A -Brainlink-Bolt.diy"
             }
           }
         ],
@@ -197,9 +197,11 @@
   },
   "active": "c6b4ca4ae4af5992",
   "lastOpenFiles": [
-    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/18_REFERENCIAS.md",
     "Sem título.md",
+    "Brainlink-Antigobolt/Referenciais/Q&A -Brainlink-Bolt.diy.md",
     "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/12_IMPLANTACAOI.md",
+    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/BRAINLINK  - BY BOLT.DIY/ideias para evoluirboltdiy.md",
+    "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/18_REFERENCIAS.md",
     "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/11_SEGURANCA.md",
     "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/10_MONITORAMENTO.md",
     "Brainlink-Antigobolt/Brainlink-antigobolt-Docs/17_APENDICES.md",
@@ -224,8 +226,6 @@
     "A1/SISTEMA META-REFERENCIAL PARA DESENVOLVIMENTO PERFEITO POR IA.md",
     "A1/Como-Usar.md",
     "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/Appbank Modular/MODULAR.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/A1 - BOLTCORRECT/BOLTCORREÇÕES.md",
-    "Brainlink-Antigobolt/Brainlink-antigoboltd-triagem/A1 - BOLTCORRECT/Bolt.new development..md",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/types/istextorbinary.d.ts",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/types",
     "Brainlink-Antigobolt/Referenciais/Bolt.diy/scripts/update.sh",
